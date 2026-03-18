@@ -42,7 +42,7 @@
   },
   "languages": {
     "kulala-http": {
-      "language_servers": ["kulala-lw"],
+      "language_servers": ["kulala-l"],
       "formatter": {
         "external": {
           "command": "/home/mgajozo/.nvm/versions/node/v24.12.0/bin/kulala-fmt",
