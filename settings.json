@@ -33,7 +33,7 @@
     "kulala-http": ["http", "rest"],
   },
   "lsp": {
-    "kulala-l": {
+    "kulala-ls": {
       "binary": {
         "path": "/home/mgajozo/.nvm/versions/node/v24.12.0/bin/kulala-ls",
         "arguments": ["--stdio"],
