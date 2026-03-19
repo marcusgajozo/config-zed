@@ -1,5 +1,5 @@
 {
-  "agent": {
+  "agents": {
     "default_model": {
       "provider": "google",
       "model": "gemini-2.5-flash-lite",
