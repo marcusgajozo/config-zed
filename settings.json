@@ -2,10 +2,16 @@
   "agent": {
     "default_model": {
       "provider": "google",
-      "model": "gemini-2.5-flash",
+      "model": "gemini-2.5-flash-lite",
       "enable_thinking": true,
     },
-    "favorite_models": [],
+    "favorite_models": [
+      {
+        "provider": "google",
+        "model": "gemini-2.5-flash-lite",
+        "enable_thinking": false,
+      },
+    ],
     "model_parameters": [],
   },
   "agent_servers": {
