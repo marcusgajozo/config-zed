@@ -29,11 +29,11 @@
   },
   "icon_theme": "Material Icon Theme",
   "ui_font_size": 20,
-  "buffer_font_size": 15,
+  "buffer_font_size": 14.0,
   "theme": {
     "mode": "system",
     "light": "Ayu Mirage",
-    "dark": "One Dark",
+    "dark": "Ayu Dark",
   },
   "file_types": {
     "kulala-http": ["http", "rest"],
